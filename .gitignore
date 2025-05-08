@@ -1,0 +1,24 @@
+# --- Ignore Python cache and compiled files ---
+__pycache__/
+*.pyc
+
+# --- Ignore data artifacts ---
+*.csv
+*.xlsx
+*.xls
+*.log
+*.png
+
+# --- Ignore FAISS index (can be regenerated) ---
+buzzbot_faiss_index/
+
+# --- Ignore manual and test scripts ---
+Manual Test.py
+Test Random Data.py
+test_*.py
+chat_log.csv
+roas_boxplot.png
+
+# --- VSCode / macOS system files ---
+.vscode/
+.DS_Store

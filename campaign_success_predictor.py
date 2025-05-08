@@ -1,3 +1,20 @@
+
+
+# ------------------------------------------------------------------------------
+# Author: Bhavani Kumbam
+# Title: AI/ML Engineer | Chatbot Developer | Data Science
+# Description: This script is part of the BuzzVerse prototype.
+# Created On: [APRIL 2025]
+# 
+# ⚠️ Proprietary Notice:
+# This code is authored by Bhavani Kumbam for conceptual and prototype use
+# within the BuzzVerse project. Redistribution, replication, or commercial 
+# use without the author's consent is prohibited.
+# 
+# Contact: Bhavanik7575@gmail.com | LinkedIn: www.linkedin.com/in/bhavani-k-58403428a]
+# ------------------------------------------------------------------------------
+
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
