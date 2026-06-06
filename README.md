@@ -29,16 +29,3 @@ This repository contains the **core chatbot logic and AI components** developed 
 - `campaign_success_predictor.py` – Logistic regression-based outcome prediction
 - `buzzmatch_ui.py` – Streamlit multi-tab UI (for internal preview)
 
-## 👤 Author
-
-**Bhavani Kumbam**  
-AI/ML Engineer | Data Scientist | Chatbot Developer  
-📧 bhavanik7575@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhavani-k-58403428a)
-
----
-
-## 🚫 Legal
-
-This project is under development.  
-All code is authored by Bhavani Kumbam. Redistribution or commercial use is prohibited without permission.
